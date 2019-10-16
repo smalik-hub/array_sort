@@ -2,7 +2,7 @@
  * array_sort_descending.cxx
  *
  *  Created on: Sep. 17, 2019
- *      Author: sm2016
+ *      Author: Shahzaib Malik
  */
 
 // C++ program to demonstrate descending order sort using
