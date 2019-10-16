@@ -2,7 +2,7 @@
  * array_sort_ascending.cxx
  *
  *  Created on: Sep. 17, 2019
- *      Author: sm2016
+ *      Author: Shahzaib Malik
  */
 
 // C++ STL provides a sort function that sorts a vector or array (items with random access).
